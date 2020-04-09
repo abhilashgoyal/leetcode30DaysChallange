@@ -6,7 +6,7 @@ import java.util.Stack;
  * These codes are part of Leetcode 30 day coding challenges
  * Link:  https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/
  * Question Link: https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3291/
- * Question alternate link: https://leetcode.com/problems/middle-of-the-linked-list/
+ * Question alternate link: https://leetcode.com/problems/backspace-string-compare/
  */
 public class Day2BackSpaceCompare {
     private final char BACKSPACE_CHAR = '#';
