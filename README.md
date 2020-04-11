@@ -18,3 +18,5 @@ Week 1:
 Week 2:
   - Day 1: [Middle of the Linked List](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week2/Day1LLMiddleElememt.java)
   - Day 2: [Backspace String Compare](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week2/Day2BackSpaceCompare.java)
+  - Day 3: [Min Stack](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week2/Day3MinStack.java)
+  - Day 4: [Diameter of Binary Tree](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week2/Day4DiameterBinaryTree.java)
