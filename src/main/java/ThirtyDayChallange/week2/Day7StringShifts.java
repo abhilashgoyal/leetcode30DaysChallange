@@ -11,7 +11,7 @@ public class Day7StringShifts {
         int len = s.length();
         int leftShift = 0;
         int rightShift = 0;
-        // negative shows left shift and positive shows right shift
+        // for each shift, add to the corresponding right shift or left shift
         for (int[] eachShift : shift) {
             if (eachShift[0] == 0) {
                 leftShift = (leftShift + eachShift[1]);
@@ -27,6 +27,15 @@ public class Day7StringShifts {
         }
     }
 
+    /**
+     * This function rotates string either left or right with the number of counts specified in the
+     * input variables
+     *
+     * @param input
+     * @param count
+     * @param right
+     * @return
+     */
     private String rotateString(String input, int count, boolean right) {
         count = right ? input.length() - count : count;
         return input.substring(count) + input.substring(0, count);
