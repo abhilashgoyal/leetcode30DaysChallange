@@ -22,3 +22,4 @@ Week 2:
   - Day 4: [Diameter of Binary Tree](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week2/Day4DiameterBinaryTree.java)
   - Day 5: [Last Stone Weight](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week2/Day5LastStoneWeight.java)
   - Day 6: [Contiguous Array](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week2/Day6ContiguousArray.java)
+  Day 7: [Perform String Shifts](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week2/Day7StringShifts.java)
