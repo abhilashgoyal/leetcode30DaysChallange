@@ -23,3 +23,6 @@ Week 2:
   - Day 5: [Last Stone Weight](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week2/Day5LastStoneWeight.java)
   - Day 6: [Contiguous Array](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week2/Day6ContiguousArray.java)
   - Day 7: [Perform String Shifts](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week2/Day7StringShifts.java)
+
+Week 3:
+  - Day 1: [Product Except Self](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week3/Day1ProductExceptSelf.java)
