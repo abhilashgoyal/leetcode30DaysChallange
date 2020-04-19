@@ -29,3 +29,4 @@ Week 3:
   - Day 2: [Valid Parenthesis String](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week3/Day2ValidParenthesisString.java)
   - Day 3: [Number Of Island](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week3/Day3NumberOfIsland.java)
   - Day 4: [Minimum Path Sum](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week3/Day4MinPathSum.java)
+  - Day 5: [Search in Rotated Sorted Array](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week3/Day5SearhInRotatedSortedArray.java)
