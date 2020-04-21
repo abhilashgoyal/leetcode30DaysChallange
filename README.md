@@ -31,3 +31,5 @@ Week 3:
   - Day 4: [Minimum Path Sum](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week3/Day4MinPathSum.java)
   - Day 5: [Search in Rotated Sorted Array](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week3/Day5SearhInRotatedSortedArray.java)
   - Day 6: [Construct Binary Search Tree from Preorder Traversal](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week3/Day6BSTFromPreOrder.java)
+  - Day 7: [Leftmost Column with at Least a One
+](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week3/Day7LeftmostColumnOne.java)
