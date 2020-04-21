@@ -3,10 +3,8 @@ package ThirtyDayChallange.week3;
 import org.junit.Assert;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
-
 public class Day5SearhInRotatedSortedArrayTest {
-    Day5SearhInRotatedSortedArray ob = new Day5SearhInRotatedSortedArray();
+    Day5SearchInRotatedSortedArray ob = new Day5SearchInRotatedSortedArray();
 
     @Test
     public void search() {

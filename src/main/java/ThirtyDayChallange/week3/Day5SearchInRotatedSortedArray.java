@@ -1,6 +1,35 @@
 package ThirtyDayChallange.week3;
 
-public class Day5SearhInRotatedSortedArray {
+
+/**
+ * Question: https://leetcode.com/problems/search-in-rotated-sorted-array/
+ * <p>
+ * Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.
+ * <p>
+ * (i.e., [0,1,2,4,5,6,7] might become [4,5,6,7,0,1,2]).
+ * <p>
+ * You are given a target value to search. If found in the array return its index, otherwise return -1.
+ * <p>
+ * You may assume no duplicate exists in the array.
+ * <p>
+ * Your algorithm's runtime complexity must be in the order of O(log n).
+ * <p>
+ * Example 1:
+ * <p>
+ * Input: nums = [4,5,6,7,0,1,2], target = 0
+ * Output: 4
+ * Example 2:
+ * <p>
+ * Input: nums = [4,5,6,7,0,1,2], target = 3
+ * Output: -1
+ */
+
+/**
+ * These codes are part of Leetcode 30 day coding challenges
+ * Link:  https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/
+ * Question Link: https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3304/
+ */
+public class Day5SearchInRotatedSortedArray {
 
     public int search(int[] nums, int target) {
         if (nums == null || nums.length == 0) return -1;
@@ -41,12 +70,12 @@ public class Day5SearhInRotatedSortedArray {
      * @return
      */
     private int getSortedIndex(int[] input) {
-        int left = 0, right = input.length -1;
-        while(left < right){
-            int mid = (left + right)/2;
-            if(input[mid] > input[right]){
+        int left = 0, right = input.length - 1;
+        while (left < right) {
+            int mid = (left + right) / 2;
+            if (input[mid] > input[right]) {
                 left = mid + 1;
-            }else{
+            } else {
                 right = mid;
             }
         }
