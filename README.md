@@ -38,4 +38,5 @@ Week 4:
   - Day 1: [Subarray Sum Equals K](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week4/Day1SubarraySumEqualsK.java)
   - Day 2: [Bitwise AND of Numbers Range
 ](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week4/Day2BitwiseANDofNumbersRange.java)
-
+  - Day 3: [LRU Cache](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week4/Day3LRUCache.java)
+  - Day 4: [Jump Game](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week4/Day4JumpGame.java)
