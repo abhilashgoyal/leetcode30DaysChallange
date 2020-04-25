@@ -36,4 +36,6 @@ Week 3:
 
 Week 4:
   - Day 1: [Subarray Sum Equals K](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week4/Day1SubarraySumEqualsK.java)
+  - Day 2: [Bitwise AND of Numbers Range
+](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week4/Day2BitwiseANDofNumbersRange.java)
 
