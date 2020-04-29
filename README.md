@@ -40,3 +40,9 @@ Week 4:
 ](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week4/Day2BitwiseANDofNumbersRange.java)
   - Day 3: [LRU Cache](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week4/Day3LRUCache.java)
   - Day 4: [Jump Game](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week4/Day4JumpGame.java)
+  - Day 5: [Longest Common Subsequence](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week4/Day5LongestCommonSubsequence.java)
+  - Day 6: [Maximum Square](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week4/Day6MaximalSquare.java)
+  - Day 7: [First Unique Number](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week4/Day7FirstUniqueNumber.java)
+
+Week 5:
+  - Day 1: [Binary Tree Maximum Path Sum](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week5/Day1BinaryTreeMaximumPathSum.java)
