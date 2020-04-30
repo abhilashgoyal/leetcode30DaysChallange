@@ -46,3 +46,4 @@ Week 4:
 
 Week 5:
   - Day 1: [Binary Tree Maximum Path Sum](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week5/Day1BinaryTreeMaximumPathSum.java)
+  - Day 2: [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://github.com/abhilashgoyal/leetcode30DaysChallenge/blob/master/src/main/java/ThirtyDayChallange/week5/Day2ValidSequenceInBinaryTree.java)
