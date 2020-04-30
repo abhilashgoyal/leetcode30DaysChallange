@@ -30,6 +30,26 @@ package ThirtyDayChallange.week5;
  * Output: 42
  */
 
+
+class TreeNode {
+    int val;
+    TreeNode left;
+    TreeNode right;
+
+    TreeNode() {
+    }
+
+    TreeNode(int val) {
+        this.val = val;
+    }
+
+    TreeNode(int val, TreeNode left, TreeNode right) {
+        this.val = val;
+        this.left = left;
+        this.right = right;
+    }
+}
+
 /**
  * These codes are part of Leetcode 30 day coding challenges
  * Link:  https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/
@@ -37,25 +57,6 @@ package ThirtyDayChallange.week5;
  */
 public class Day1BinaryTreeMaximumPathSum {
     int max = Integer.MIN_VALUE;
-
-    public static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
-    }
 
     public int maxPathSum(TreeNode root) {
         maximumPathSum(root);
